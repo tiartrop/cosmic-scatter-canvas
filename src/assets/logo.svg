@@ -1,0 +1,55 @@
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(32, 32)" stroke="currentColor" stroke-width="0.3">
+    <line x1="0" y1="0" x2="14" y2="0" transform="rotate(19)" />
+    <line x1="0" y1="0" x2="14" y2="0" transform="rotate(22)" />
+    <line x1="0" y1="0" x2="14" y2="0" transform="rotate(25)" />
+    <line x1="14" y1="0" x2="28" y2="0" transform="rotate(22)" />
+    <line x1="0" y1="0" x2="22" y2="0" transform="rotate(50)" />
+    <line x1="0" y1="0" x2="14" y2="0" transform="rotate(78)" />
+    <line x1="14" y1="0" x2="22" y2="0" transform="rotate(75)" />
+    <line x1="14" y1="0" x2="22" y2="0" transform="rotate(78)" />
+    <line x1="14" y1="0" x2="22" y2="0" transform="rotate(81)" />
+    <line x1="22" y1="0" x2="29" y2="0" transform="rotate(78)" />
+    <line x1="0" y1="0" x2="14" y2="0" transform="rotate(128)" />
+    <line x1="0" y1="0" x2="14" y2="0" transform="rotate(131)" />
+    <line x1="14" y1="0" x2="27" y2="0" transform="rotate(128)" />
+    <line x1="0" y1="0" x2="14" y2="0" transform="rotate(153)" />
+    <line x1="14" y1="0" x2="22" y2="0" transform="rotate(153)" />
+    <line x1="14" y1="0" x2="22" y2="0" transform="rotate(156)" />
+    <line x1="22" y1="0" x2="36" y2="0" transform="rotate(153)" />
+    <line x1="0" y1="0" x2="22" y2="0" transform="rotate(170)" />
+    <line x1="0" y1="0" x2="14" y2="0" transform="rotate(220)" />
+    <line x1="14" y1="0" x2="22" y2="0" transform="rotate(217)" />
+    <line x1="14" y1="0" x2="22" y2="0" transform="rotate(220)" />
+    <line x1="22" y1="0" x2="34" y2="0" transform="rotate(220)" />
+    <line x1="0" y1="0" x2="14" y2="0" transform="rotate(242)" />
+    <line x1="0" y1="0" x2="14" y2="0" transform="rotate(245)" />
+    <line x1="0" y1="0" x2="14" y2="0" transform="rotate(248)" />
+    <line x1="14" y1="0" x2="22" y2="0" transform="rotate(245)" />
+    <line x1="0" y1="0" x2="14" y2="0" transform="rotate(268)" />
+    <line x1="14" y1="0" x2="22" y2="0" transform="rotate(265)" />
+    <line x1="14" y1="0" x2="22" y2="0" transform="rotate(268)" />
+    <line x1="14" y1="0" x2="22" y2="0" transform="rotate(271)" />
+    <line x1="14" y1="0" x2="22" y2="0" transform="rotate(274)" />
+    <line x1="22" y1="0" x2="25" y2="0" transform="rotate(268)" />
+    <line x1="0" y1="0" x2="14" y2="0" transform="rotate(298)" />
+    <line x1="14" y1="0" x2="22" y2="0" transform="rotate(295)" />
+    <line x1="14" y1="0" x2="22" y2="0" transform="rotate(298)" />
+    <line x1="22" y1="0" x2="29" y2="0" transform="rotate(298)" />
+    <line x1="0" y1="0" x2="15" y2="0" transform="rotate(320)" />
+    <line x1="0" y1="0" x2="14" y2="0" transform="rotate(345)" />
+    <line x1="14" y1="0" x2="22" y2="0" transform="rotate(342)" />
+    <line x1="14" y1="0" x2="22" y2="0" transform="rotate(345)" />
+    <line x1="14" y1="0" x2="22" y2="0" transform="rotate(348)" />
+    <line x1="22" y1="0" x2="31" y2="0" transform="rotate(345)" />
+    <path d="M 13.315 -4.326 A 14 14 0 0 1 8.999 10.724" fill="none" />
+    <path d="M 3.689 13.510 A 14 14 0 0 1 -8.660 11.026" fill="none" />
+    <path d="M -12.566 6.378 A 14 14 0 0 1 -10.721 -8.999" fill="none" />
+    <path d="M -6.757 -12.284 A 14 14 0 0 1 6.473 -12.469" fill="none" />
+    <path d="M 20.380 8.241 A 22 22 0 0 1 14.134 16.863" fill="none" />
+    <path d="M 4.563 21.522 A 22 22 0 0 1 -13.608 17.330" fill="none" />
+    <path d="M -19.756 10.021 A 22 22 0 0 1 -21.659 3.823" fill="none" />
+    <path d="M -17.434 -13.138 A 22 22 0 0 1 -9.297 -19.922" fill="none" />
+    <path d="M -0.769 -21.987 A 22 22 0 0 1 10.173 -19.613" fill="none" />
+  </g>
+</svg>
